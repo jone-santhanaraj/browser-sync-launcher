@@ -1,0 +1,9 @@
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Browser Sync.exe
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Browser Sync.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Browser Sync.deps.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Browser Sync.runtimeconfig.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Browser Sync.dll.config
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Browser Sync.pdb
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\System.Management.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\System.Configuration.Install.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\first_publish_try\Microsoft.JScript.dll

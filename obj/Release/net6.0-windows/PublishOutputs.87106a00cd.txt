@@ -1,0 +1,6 @@
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\Browser Sync.exe
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\Browser Sync.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\Browser Sync.deps.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\Browser Sync.runtimeconfig.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\Browser Sync.dll.config
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\Browser Sync.pdb

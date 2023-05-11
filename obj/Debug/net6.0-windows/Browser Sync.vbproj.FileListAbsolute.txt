@@ -1,0 +1,19 @@
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\bin\Debug\net6.0-windows\Browser Sync.exe
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\bin\Debug\net6.0-windows\Browser Sync.dll.config
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\bin\Debug\net6.0-windows\Browser Sync.deps.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\bin\Debug\net6.0-windows\Browser Sync.runtimeconfig.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\bin\Debug\net6.0-windows\Browser Sync.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\bin\Debug\net6.0-windows\Browser Sync.pdb
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.vbproj.AssemblyReference.cache
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser_Sync.browser_sync.resources
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser_Sync.Resources.resources
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.vbproj.GenerateResource.cache
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.AssemblyInfoInputs.cache
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.AssemblyInfo.vb
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.vbproj.CoreCompileInputs.cache
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\refint\Browser Sync.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.pdb
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\Browser Sync.genruntimeconfig.cache
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\Browser-Sync\obj\Debug\net6.0-windows\ref\Browser Sync.dll

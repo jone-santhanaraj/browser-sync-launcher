@@ -1,0 +1,8 @@
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\Browser Sync.pdb
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\Browser Sync.dll.config
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\D3DCompiler_47_cor3.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\PenImc_cor3.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\PresentationNative_cor3.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\vcruntime140_cor3.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\wpfgfx_cor3.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Browser-Sync\browser-sync-launcher-v1.0.000-release\browser-sync-launcher\Browser Sync.exe

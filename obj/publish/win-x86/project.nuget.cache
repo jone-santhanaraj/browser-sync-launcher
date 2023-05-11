@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/thK1WC4HMTdAIHVCyiQ/HB70FVe8eXX+DQNtt+8sU1ZULgfPnTaOy09DobnkPfosZaKoNRBQQYMqueWjEDXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jone Santhanaraj\\Documents\\Programming Projects\\Browser-Sync\\Browser-Sync\\Browser Sync.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jone Santhanaraj\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.14\\microsoft.netcore.app.runtime.win-x86.6.0.14.nupkg.sha512",
+    "C:\\Users\\Jone Santhanaraj\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.14\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.14.nupkg.sha512",
+    "C:\\Users\\Jone Santhanaraj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.14\\microsoft.aspnetcore.app.runtime.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Test Publish\Browser Sync.exe
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Test Publish\Browser Sync.dll
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Test Publish\Browser Sync.deps.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Test Publish\Browser Sync.runtimeconfig.json
+C:\Users\Jone Santhanaraj\Documents\Programming Projects\Test Publish\Browser Sync.pdb
