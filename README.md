@@ -32,7 +32,7 @@ _Note: npm requires Node.JS to be installed._</br></br>
 or visit the [browser-sync](https://browsersync.io) website for more information.</br>
 _Ignore if already installed._
 
-- Download and run the latest release ["browser-sync-launcher-v1.X.XXX-release-install.msi"]() file and follow the prompts.
+- Download and run the latest release ["browser-sync-launcher-v1.X.XXX-release-install.msi"](https://github.com/jone-santhanaraj/browser-sync-launcher/releases) file and follow the prompts.
 
 </br>
 
@@ -73,6 +73,6 @@ I would like to express my gratitude to the [creators of the browser-sync](https
 
 </br>
 
-### Thank you for using this tool!
+### Thank you for using this browser sync launcher tool!
 
 ## This is [Jone Santhanaraj](https://github.com/jone-santhanaraj) signing off.
