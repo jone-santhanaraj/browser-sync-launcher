@@ -73,6 +73,6 @@ I would like to express my gratitude to the [creators of the browser-sync](https
 
 </br>
 
-### Thank you for using this tool!
+### Thank you for using this browser sync launcher tool!
 
 ## This is [Jone Santhanaraj](https://github.com/jone-santhanaraj) signing off.
